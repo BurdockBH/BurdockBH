@@ -1,8 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Edin</h1>
-<h3 align="center">I am a student at University of Sarajevo, Software Development course. Currently learning mobile development, with and interest in embedded software</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="burdockbh" /> </p>
+<h3 align="center">I am a student at University of Sarajevo, Software Development course. Currently learning mobile development, with and interest in embedded software</h3> 
 
 - 📫 How to reach me **ecickusic1@etf.unsa.ba**
 
@@ -81,6 +79,36 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
+    </td> 
+     <td align="center" width="96">
+      <a href="#c" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="48" height="48" alt="C" />
+      </a>
+      <br>C 
+    </td> 
+      <td align="center" width="96">
+      <a href="#cpp" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td> 
+     <td align="center" width="96">
+      <a href="#flutter" >
+        <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td> 
+     <td align="center" width="96">
+      <a href="#flutter" >
+        <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+     <td align="center" width="96">
+      <a href="#kotlin" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png?20171012085709" width="48" height="48" alt="Kotlin" />
+      </a> 
+      <br>Flutter
     </td> 
   </tr>
 </table>
