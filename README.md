@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Edin</h1>
 <h3 align="center">I am a student at University of Sarajevo, Software Development course. Currently learning mobile development, with and interest in embedded software</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="burdockbh" /> </p>
 
 - 📫 How to reach me **ecickusic1@etf.unsa.ba**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/edin-cickusic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/devboyarif" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/edin-cickusic/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/burdockbh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,9 +45,6 @@
       </a>
       <br>Nuxt JS
     </td>
-  </tr>
-
-  <tr>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
@@ -93,8 +90,8 @@
   <summary> ✌️ My GitHub Analytics </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BurdockBH&show_icons=true&locale=en&layout=compact&theme=radical" alt="BurdockBH" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=BurdockBH&show_icons=true&locale=en&theme=radical" alt="BurdockBH" /></p> 
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=devboyarif&theme=radical" alt="devboyarif" /></p>
-<p><img width="100%" height="350px" alt="Arif's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devboyarif&theme=github" /></p>
+<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=BurdockBH&theme=radical" alt="BurdockBH" /></p>
+<p><img width="100%" height="350px" alt="Edin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BurdockBH&theme=github" /></p>
 </details>
 
 ----
