@@ -32,10 +32,10 @@
       <br>Bootstrap
     </td>
      <td align="center" width="96">
-      <a href="#js">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="javascript" />
+      <a href="#nodejs">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.pngg" width="48" height="48" alt="nodejs" />
       </a>
-      <br>Javascript
+      <br>NodeJS
     </td>
      <td align="center" width="96">
       <a href="#C#">
@@ -76,10 +76,10 @@
       <br>Git
     </td>
       <td align="center"  width="96">
-      <a href="#vscode">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      <a href="#reactjs">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="48" height="48" alt="ReactJS" />
       </a>
-      <br>VS Code
+      <br>React
     </td>
       <td align="center" width="96">
       <a href="#postman" >
@@ -114,13 +114,10 @@
   </tr>
 </table>
 
----
-<details>
+
   <summary> ✌️ My GitHub Analytics </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BurdockBH&show_icons=true&locale=en&layout=compact&theme=radical" alt="BurdockBH" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=BurdockBH&show_icons=true&locale=en&theme=radical" alt="BurdockBH" /></p> 
 <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=BurdockBH&theme=radical" alt="BurdockBH" /></p>
 <p><img width="100%" height="350px" alt="Edin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BurdockBH&theme=github" /></p>
-</details>
 
-----
