@@ -54,6 +54,13 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#unity">
+        <img src="https://static.wikia.nocookie.net/logopedia/images/c/ce/Unity_%28Icon%29.svg/revision/latest?cb=20210722101017" width="48" height="48" alt="Unity" />
+      </a>
+      <br>Unity
+    </td>
   </tr>
    <tr>
       <td align="center" width="96">
@@ -99,16 +106,10 @@
       <br>Flutter
     </td> 
      <td align="center" width="96">
-      <a href="#flutter" >
-        <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-     <td align="center" width="96">
       <a href="#kotlin" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png?20171012085709" width="48" height="48" alt="Kotlin" />
       </a> 
-      <br>Flutter
+      <br>Kotlin
     </td> 
   </tr>
 </table>
