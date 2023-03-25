@@ -38,16 +38,16 @@
       <br>Javascript
     </td>
      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
+      <a href="#C#">
+        <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
-      <br>Nuxt JS
+      <br>C#
     </td>
       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
+      <a href="#posgreSQL">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>MySQL
+      <br>PostgreSQL
     </td>
      <td align="center" width="96">
       <a href="#ts">
