@@ -1,6 +1,6 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Edin</h1>
-<h3 align="center">I am a student at University of Sarajevo, Software Development course. Currently learning mobile development, with and interest in embedded software</h3> 
+<h3 align="center">I am a student at University of Sarajevo, Software Development course. Currently learning mobile development, with ana interest in embedded software, among other various technologies</h3> 
 
 - 📫 How to reach me **ecickusic1@etf.unsa.ba**
 
