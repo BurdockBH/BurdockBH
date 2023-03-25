@@ -33,7 +33,7 @@
     </td>
      <td align="center" width="96">
       <a href="#nodejs">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.pngg" width="48" height="48" alt="nodejs" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="48" height="48" alt="nodejs" />
       </a>
       <br>NodeJS
     </td>
@@ -119,5 +119,3 @@
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BurdockBH&show_icons=true&locale=en&layout=compact&theme=radical" alt="BurdockBH" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=BurdockBH&show_icons=true&locale=en&theme=radical" alt="BurdockBH" /></p> 
 <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=BurdockBH&theme=radical" alt="BurdockBH" /></p>
-<p><img width="100%" height="350px" alt="Edin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=BurdockBH&theme=github" /></p>
-
