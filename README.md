@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Edin</h1>
 <h3 align="center">I am a student at University of Sarajevo, Software Development course. Currently learning backend, mobile development, video games (which is a huge passion, especially RPG's), among other various technologies.</h3> 
 
-- 📫 How to reach me **ecickusic1@etf.unsa.ba**
+- 📫 How to reach me **edocicak@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
